@@ -8,4 +8,4 @@ In this particular project, I inted to practice the HTML concepts I have learnt 
   - Images (sizes types)
   - The basic HTML page format(master the boilerplate)
   - Basic Git commands
-  - And commenting on HTML
+  - And commenting on HTML# Odin Recipes Project
